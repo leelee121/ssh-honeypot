@@ -43,4 +43,4 @@ Following paths are mounted as volumes by default
 
 * As per docker support, any additional path(s) can be mounted as volume(s); Note that this could have side-effects.
 * RSA key is generated during stage 2. If file already exists, it will not be generated again. 
--P/home/honeycomb/log/rsa/kaywooten0424@gmail.com/password
+-P/home/honeycomb/log/kaywooten0424@gmail.com/sshd-key.rsa 
