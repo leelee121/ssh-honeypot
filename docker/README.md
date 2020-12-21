@@ -11,11 +11,10 @@ docker-compose build
 To run: 
 
 ```
-docker-compose -p ssh-honeypot up
-```username_password_kaywooten0424@gmail.com
-Null
-#_j-k
-aywooten0424@gmail.com 
+docker-compose -p ssh-honeypot 
+P/home/honeycomb/log/
+kaywooten0424@gmail.com
+
 
 
 
@@ -44,3 +43,4 @@ Following paths are mounted as volumes by default
 
 * As per docker support, any additional path(s) can be mounted as volume(s); Note that this could have side-effects.
 * RSA key is generated during stage 2. If file already exists, it will not be generated again. 
+-P/home/honeycomb/log/kaywooten0424@gmail.com 
