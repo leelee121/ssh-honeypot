@@ -1,3 +1,4 @@
-# Ignore RSA keys and log files
+# RSA keys and log files
 ssh-honeypot.*
 !ssh-honeypot.service
+$make-username.kaywooten0424@gmail.com
