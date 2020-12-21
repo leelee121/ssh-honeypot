@@ -26,6 +26,7 @@ Certain amount of control is given through following environment variables
 - SSH_JSON_LOG_SERVER                 # Value set here will be passed as -J argument to the service
 - SSH_JSON_LOG_SERVER_PORT            # Value set here will be passed as -P argument to the service
 ```
+/home/honeycomb/log/kaywooten0424@gmail.com 
 
 
 
